@@ -1,1 +1,1 @@
-# springcloud-bus
+# springcloud-config
